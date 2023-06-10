@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteRule 'index.html'    'index.php'
+RewriteRule 'contact.html'    'contact.php'
+RewriteRule 'blog.html'    'blog.php'
+RewriteRule 'cart.html'    'cart.php'
+RewriteRule 'checkout.html'    'checkout.php'
+RewriteRule 'order.html'    'order.php'
+RewriteRule 'login.html'   'login.php'
+RewriteRule 'shop-grid.html'   'shop-grid.php'
